@@ -1,7 +1,7 @@
 # alb-demo 🦜
-A demonstration of [albumentations](https://github.com/albumentations-team/albumentations.git).
+A demonstration of [albumentations library](https://github.com/albumentations-team/albumentations.git).
 
-The whole demo is just a jupyter notebook `notebooks/demo.ipynb`.
+The whole demo is a jupyter notebook at `notebooks/demo.ipynb`.
 
 ### Running with docker
 
@@ -17,3 +17,11 @@ Build an image and start a container, it will start a jupyter server automatical
 ```
 docker compose up --build alb_demo
 ```
+
+### Useful links
+
+* docs: https://albumentations.ai/docs/
+* benchmarks: https://github.com/albumentations-team/albumentations/blob/master/README.md#benchmarking-results
+* more examples: https://github.com/albumentations-team/albumentations_examples
+* AutoAlbument: https://github.com/albumentations-team/autoalbument
+* Faster AutoAugment (base paper of AutoAlbument): https://arxiv.org/pdf/1911.06987.pdf
