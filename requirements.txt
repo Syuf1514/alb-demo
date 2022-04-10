@@ -1,0 +1,15 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+
+torch
+torchvision
+torchaudio
+
+albumentations
+autoalbument
+ipywidgets
+matplotlib
+notebook
+numpy
+opencv-python
+pandas
+pathlib
